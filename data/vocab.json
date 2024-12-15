@@ -1,0 +1,14 @@
+{
+  "elementary": [
+    {
+      "en": "apple",
+      "de": "der Apfel",
+      "description": "A round fruit that is often red or green."
+    },
+    {
+      "en": "book",
+      "de": "das Buch",
+      "description": "Something you read or study from."
+    }
+  ]
+}
